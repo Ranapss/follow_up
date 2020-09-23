@@ -1,0 +1,43 @@
+Company Name,Date Applied,Follow Up date,Follow Up,Followed up?,Follow up message,Contact name,Contact email,Position,Job-board
+Test,9/22/2020,10/1/2020,True,True,"Hi {name}, 
+
+My name is Rana Sandhu, I recently applied to the {position} position on {job_board}. I am emailing to follow up on the status of my application. If I wasn't selected for the opportunity, is there any feedback you could give me to improve my applications in the future. 
+
+Thank you,
+Rana
+",Henry Davis,hdavis@test.com,Data Scientist ,Indeed
+Test,9/22/2020,10/1/2020,True,True,"Hi {name}, 
+
+My name is Rana Sandhu, I recently applied to the {position} position on {job_board}. I am emailing to follow up on the status of my application. If I wasn't selected for the opportunity, is there any feedback you could give me to improve my applications in the future. 
+
+Thank you,
+Rana
+",Henry Davis,hdavis@test.com,Data Scientist ,Indeed
+Test,9/22/2020,10/1/2020,True,True,"Hi {name}, 
+
+My name is Rana Sandhu, I recently applied to the {position} position on {job_board}. I am emailing to follow up on the status of my application. If I wasn't selected for the opportunity, is there any feedback you could give me to improve my applications in the future. 
+
+Thank you,
+Rana
+",Henry Davis,hdavis@test.com,Data Scientist ,Indeed
+Test,9/22/2020,10/1/2020,True,True,"Hi {name}, 
+
+My name is Rana Sandhu, I recently applied to the {position} position on {job_board}. I am emailing to follow up on the status of my application. If I wasn't selected for the opportunity, is there any feedback you could give me to improve my applications in the future. 
+
+Thank you,
+Rana
+",Henry Davis,hdavis@test.com,Data Scientist ,Indeed
+Test,9/22/2020,10/1/2020,True,True,"Hi {name}, 
+
+My name is Rana Sandhu, I recently applied to the {position} position on {job_board}. I am emailing to follow up on the status of my application. If I wasn't selected for the opportunity, is there any feedback you could give me to improve my applications in the future. 
+
+Thank you,
+Rana
+",Henry Davis,hdavis@test.com,Data Scientist ,Indeed
+Test,9/22/2020,10/1/2020,True,True,"Hi {name}, 
+
+My name is Rana Sandhu, I recently applied to the {position} position on {job_board}. I am emailing to follow up on the status of my application. If I wasn't selected for the opportunity, is there any feedback you could give me to improve my applications in the future. 
+
+Thank you,
+Rana
+",Henry Davis,hdavis@test.com,Data Scientist ,Indeed
